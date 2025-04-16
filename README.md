@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Tomás André Leite
+## 👋 Hi, I'm Tomás André Ribeiro Pinto Leite
 
 🚀 **Software Engineering Student** at [ISEP – Instituto Superior de Engenharia do Porto](https://www.linkedin.com/in/tomasandreleite/)  
 💻 **Software Developer Intern** at **DevScope**  
@@ -17,6 +17,6 @@ When I'm not coding or collaborating with my Formula Student team, you'll find m
 ---
 
 📂 **Explore my GitHub** for repositories showcasing my love for technology and motorsport.  
-🌍 **Connect with me on LinkedIn**: [Tomás Leite](https://www.linkedin.com/in/tomasandreleite/)  
+🌍 **Connect with me on LinkedIn**: [Tomás André Ribeiro Pinto Leite](https://www.linkedin.com/in/tomasandreleite/)  
 
 Let's build something amazing together! 🚀
