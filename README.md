@@ -17,6 +17,6 @@ When I'm not coding or collaborating with my Formula Student team, you'll find m
 ---
 
 📂 **Explore my GitHub** for repositories showcasing my love for technology and motorsport.  
-🌍 **Connect with me on LinkedIn**: [Tomás André Leite](https://www.linkedin.com/in/tomasandreleite/)  
+🌍 **Connect with me on LinkedIn**: [Tomás Leite](https://www.linkedin.com/in/tomasandreleite/)  
 
 Let's build something amazing together! 🚀
