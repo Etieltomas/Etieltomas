@@ -27,7 +27,6 @@ When I'm not coding or collaborating with my Formula Student team, you'll find m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Etieltomas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=Etieltomas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
